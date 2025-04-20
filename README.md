@@ -26,7 +26,7 @@ CiviCraft bridges this gap by enabling users to:
 - **PyPDF2 + ipywidgets**: PDF parsing and file uploads
 - **Python / Jupyter / Kaggle**: Notebook interface
 
-## 📈 Use Case
+## Use Case
 Imagine a citizen uploads the Clean Air Act. CiviCraft:
 - Summarizes the act in plain English
 - Evaluates a claim like: "This act is unfair to industry"
